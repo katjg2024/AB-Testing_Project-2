@@ -87,4 +87,5 @@ Alternative Hypothesis: The average client tenure (in months) of those engaging 
 
 Hypothesis 5: We reject the null hypothesis. There is a statistically significant difference in the mean client tenure (in months) between the control and test groups.
 
-
+#### Presentation: https://prezi.com/view/dZHp3JkwPgW1Yqu5QJvQ/
+#### Tableau Visualizations: https://public.tableau.com/app/profile/katherine.granados/viz/Age_Calls/Dashboard2?publish=yes, https://public.tableau.com/app/profile/katherine.granados/viz/AvgbyStep/Dashboard1?publish=yes
